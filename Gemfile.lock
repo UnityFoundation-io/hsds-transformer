@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    hsds_transformer (0.0.6)
+    hsds_transformer (0.0.7)
       datapackage (~> 1.1.1, >= 1.1.1)
       rest-client (~> 2.0.2, >= 2.0.2)
       rubyzip (~> 2.0.0, < 2.1.0)
